@@ -1,0 +1,4 @@
+001 abc manasa 9087654321
+s001|ABC_stationary|manasa|9087654321
+s002|xyz_books|vihari|9876543210
+s003|PQR_Xerox|yamuna|9876543201
